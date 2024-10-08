@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|c:\\users\\sasan\\source\\repos\\gadgetsstoremvc\\gadgetsstoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|solutionrelative:gadgetsstoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|c:\\users\\sasan\\source\\repos\\gadgetsstoremvc\\gadgetsstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|solutionrelative:gadgetsstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|c:\\users\\sasan\\source\\repos\\gadgetsstoremvc\\gadgetsstoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|solutionrelative:gadgetsstoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|c:\\users\\sasan\\source\\repos\\gadgetsstoremvc\\gadgetsstoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|solutionrelative:gadgetsstoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|c:\\users\\sasan\\source\\repos\\gadgetsstoremvc\\gadgetsstoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C7FF55-2E97-4872-84CB-C3B61A2BCA35}|GadgetsStoreMVC\\GadgetsStoreMVC.csproj|solutionrelative:gadgetsstoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GadgetsStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "GadgetsStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:25:30.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GadgetsStoreMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Models\\Product.cs",
+              "RelativeToolTip": "GadgetsStoreMVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:06:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "GadgetsStoreMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "GadgetsStoreMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:56:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "GadgetsStoreMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "GadgetsStoreMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:02:15.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "GadgetsStoreMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\GadgetsStoreMVC\\GadgetsStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "GadgetsStoreMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:01:02.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
